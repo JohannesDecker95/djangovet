@@ -1,5 +1,7 @@
 # Build Python Web Apps with Django
 
+Username: vetadmin Password: il0vepets (where the ‘o’ in love is a zero)
+
 Hello! This GitHub repo is intended to be used with the article Deploy Your App to PythonAnywhere.
 
 Make sure to follow the steps as outlined in the article to see how to use GitHub and PythonAnywhere for your deployment needs!
